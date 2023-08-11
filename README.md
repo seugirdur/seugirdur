@@ -30,8 +30,9 @@ object Gabriel {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/261c2cda92d09ccad6f8b2dc91af32a2a5856989/topics/tailwind/tailwind.png"></code>
 
 ## Status
-
+<a href="https://github.com/seugirdur">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seugirdur&theme=tokyonight&hide_langs_below=1" />
+</a>
 
 
 <a href="https://github.com/seugirdur">
