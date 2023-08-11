@@ -31,11 +31,10 @@ object Gabriel {
 
 ## Status
 
-<a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seugirdur&theme=tokyonight&hide_langs_below=1" />
-</a>
 
-<a href="https://github.com/Gurupreet">
+
+<a href="https://github.com/seugirdur">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=seugirdur&show_icons=true&theme=tokyonight&line_height=27" alt="Gabriel Rudrigues Lima" github stats"/>
 </a>
 
