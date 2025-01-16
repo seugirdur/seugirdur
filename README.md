@@ -1,23 +1,23 @@
-# Oi devs 👋
+# Hi devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+I love creating amazing software and helping others do the same.
 
-## Mais sobre mim
+## About Me
 
 <img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
 object Gabriel {
  val name = "Gabriel Rudrigues Lima"
- val acknowledgements = "Análise e Desenvolvimento de Sistemas"
+ val acknowledgements = "System Analysis and Development"
 
- val primarySkillset = "ALGUMAS HABILIDADES"
+ val primarySkillset = "Various Development Skills"
  val languages = listOf("Java", "Typescript", "Spring", "Kotlin", "React")
 
 }
 ```
 
-## Linguagens e ferramentas
+## Languages and Tools
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -39,7 +39,7 @@ object Gabriel {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=seugirdur&show_icons=true&theme=tokyonight&line_height=27" alt="Gabriel Rudrigues Lima" github stats"/>
 </a>
 
-[website]: https://github.com/seugirdur
+[website]: https://seugirdur.github.io/Portifolio-Pessoal
 [twitter]: https://twitter.com/gang_gabe
 [youtube]: https://www.youtube.com/channel/UCZziyRGUQrXLv0Ylc_hDocA
 [instagram]: https://www.instagram.com/gabriel_rudrigues/
@@ -47,7 +47,7 @@ object Gabriel {
 
 <br>
 
-## Rede sociais
+## Social Networks
 
 🏡 [Website][website] **|**
 🐦 [Twitter][twitter] **|**
